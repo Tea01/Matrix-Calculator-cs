@@ -1,15 +1,4 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					2020-2021 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........: 2
-**				ÖĞRENCİ ADI............: TEA SHKURTİ
-**				ÖĞRENCİ NUMARASI.......: B191210555
-**                   DERSİN ALINDIĞI GRUP...: 1 Öğretim C grubu
-****************************************************************************/
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
